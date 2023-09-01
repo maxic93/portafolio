@@ -178,7 +178,7 @@ h1 {
 .card {
     width: 25rem;
     @media(max-width: 510px){
-        width: 16rem;
+        width: 17rem;
     }
 }
 .fa-react {
@@ -264,7 +264,7 @@ h1 {
     border: none;
     border-bottom: 2px solid #555;
     margin: 20px;
-    min-width: 250px;
+    min-width: 220px;
     background-color: transparent;
 }
 .textarea {
