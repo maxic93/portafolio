@@ -1,3 +1,7 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
 .container-banner {
   background-image: url("https://media.istockphoto.com/id/1137735902/es/vector/desarrollo-de-software-programaci%C3%B3n-laptop.jpg?s=612x612&w=0&k=20&c=Gze1XhlY3KVfzEN3fEiAOd4bpQP6idEhZJmRshWRHow=");
   background-position: center center;
@@ -39,7 +43,7 @@
 }
 h1 {
     @media(max-width: 550px){
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 }
 .button-cv{
@@ -112,6 +116,7 @@ h1 {
     padding: 7px;
     background: #E5E4E5;
     color: #333;
+    font-size: .75rem;
 }
 .redes-sociales {
     padding: 2px 0px 2px 0px;
